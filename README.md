@@ -4,8 +4,7 @@
 <br>
 <i> Hii, My name is @Kellenkern😊 </i>
 
-<p>I'm recent fullstack developer looking for opportunities and collabaration in projects related to data science and deep learning.</p>
-<p>, I’m currently learning about new programming languages and I’m looking to collaborate on a new interesting project. </p>
+<p>I'm front-end developer looking for opportunities and collabaration in projects related to data science and deep learning.</p>
 
 <ul>
   <li>⭐️ I’m interested in gaining knowledge every day </li>
@@ -20,10 +19,4 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=Kellenkern&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=Kellenkern&theme=dark" style="max-width: 100%;"></a>
 </p>
 
-
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/kellen-kern/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/kellenkern_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:kellenrocha201911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
